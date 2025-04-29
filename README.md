@@ -29,3 +29,5 @@ The project uses a dataset with labeled email messages (`spam` or `ham`). You ca
    ```bash
    git clone https://github.com/yourusername/spam-email-detection.git
    cd spam-email-detection
+pip install -r requirements.txt
+
